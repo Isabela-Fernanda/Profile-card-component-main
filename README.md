@@ -20,7 +20,9 @@ Esta é uma solução para o [Profile card component challenge on Frontend Mento
 Mobile
 
 ![](./design/solucao-desktop.png)
+
 Desktop
+
 ![](./design/solucao-mobile.png)
 
 ### Links
