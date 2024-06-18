@@ -17,9 +17,10 @@ Esta é uma solução para o [Profile card component challenge on Frontend Mento
 
 ### Screenshot
 
-Desktop
-![](./design/solucao-desktop.png)
 Mobile
+
+![](./design/solucao-desktop.png)
+Desktop
 ![](./design/solucao-mobile.png)
 
 ### Links
