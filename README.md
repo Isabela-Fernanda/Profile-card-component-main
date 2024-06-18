@@ -24,7 +24,7 @@ Mobile
 
 ### Links
 
-- Live Site URL: [Profile card component]()
+- Live Site URL: [Profile card component](https://isabela-fernanda.github.io/Profile-card-component-main/)
 
 ## Meu processo
 
