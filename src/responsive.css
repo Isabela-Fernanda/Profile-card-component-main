@@ -1,0 +1,22 @@
+@media(min-width: 1024px){
+    body{
+        background-position: -62% 210%, 150% -156%;
+    }
+
+    .container{
+        margin: -1.8rem;
+    }
+    
+    .card{
+        width: 35rem;
+    }
+
+    ul{
+        margin-left: 3.8rem;
+    }
+    
+    ul li{
+        margin-right: 5rem;
+    }
+}
+
